@@ -27,6 +27,12 @@ body {
     color: #fff;
 }
 
+.banner-image {
+    max-width: 110%;
+    height: auto;
+    border-radius: 15px;
+}
+
 .search-box {
     background: white;
     padding: 20px;
@@ -54,7 +60,6 @@ body {
 
 .delivery-options .btn-warning.active {
     background-color: #ff5100dc;
-    border-color: #ff5100dc;
     color: white;
 }
 
@@ -80,7 +85,6 @@ body {
 
 .address-input .btn-danger {
     background-color: #ff5100dc;
-    border-color: #ff5100dc;
     color: white;
     border-radius: 25px;
     padding: 10px 20px;

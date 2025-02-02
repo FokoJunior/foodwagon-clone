@@ -6,5 +6,5 @@
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone [https://github.com/FokoJunior/foodwagon-clone.git](https://github.com/FokoJunior/foodwagon-clone.git)
+   git clone https://github.com/FokoJunior/foodwagon-clone.git
    cd foodwagon-clone
